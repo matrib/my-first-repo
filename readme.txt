@@ -1,1 +1,1 @@
-It is sunny outside today
+It is windy outside today
